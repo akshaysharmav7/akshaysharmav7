@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysharmav7&label=Profile%20views&color=58a6ff&style=flat" alt="akshaysharmav7" /> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/akshaysharmav" target="blank"><img src="https://img.shields.io/twitter/follow/s_g_d_96?logo=twitter&style=for-the-badge&color=58a6ff" alt="s_g_d_96" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/akshaysharmav" target="blank"><img src="https://img.shields.io/twitter/follow/akshaysharmav?logo=twitter&style=for-the-badge&color=58a6ff" alt="s_g_d_96" /></a> </p>
 
 👋 Hi, I'm Akshay — Software Engineer from India, based in Bengaluru Currently.
 
