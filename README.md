@@ -24,8 +24,8 @@
     <a href="https://linkedin.com/in/akshaysharmav" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaysharmav" height="30" width="40" />
     </a>
-    <a href="mailto:akshaysharmav7@gmail.com" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="akshaysharmav7@gmail.com" height="30" width="40" />
+<a href="mailto:akshaysharmav7@gmail.com" target="blank">
+        <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="akshaysharmav7@gmail.com" height="30" width="40" />
     </a>
     <a href="https://leetcode.com/u/akshaysharmav7/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshaysharmav" height="30" width="40" />
