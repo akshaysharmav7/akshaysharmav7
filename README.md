@@ -1,4 +1,3 @@
-<!-- <h1 align="center">Hi 👋, I'm Snehasish Ghosh Dastidar</h1> -->
 <br>
 <p align="center">
     <a href="https://github.com/akshaysharmav7"><img src="https://readme-typing-svg.herokuapp.com/?lines=Akshay%20Kumar%20Sharma;A%20passionate%20software%20engineer%20from%20India;&font=Pacifico&center=true&width=750&height=55&color=58a6ff&vCenter=true&size=35"></a>
