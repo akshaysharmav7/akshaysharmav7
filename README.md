@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://linkedin.com/in/akshaysharmav" target="blank"><img src="https://img.shields.io/twitter/follow/A_K_S?logo=twitter&style=for-the-badge&color=58a6ff" alt="s_g_d_96" /></a> </p>
 
-👋 Hi, I'm Akshay — Software Engineer from India, based in Bengaluru Currently.
+👋 Hi, I'm Akshay — A Software Engineer from Patna, based in Bengaluru Currently.
 
-📊 Leading development of Management Systems and HR tech solutions in Impulse International Pvt. Ltd.
+📊 Leading development of Ticket Resolution Systems and RAG pipeline solutions @Impulse International Pvt. Ltd.
 
 🧠 Passionate about coding scalable and business driven soutions.
 
