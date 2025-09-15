@@ -47,6 +47,7 @@
 </p>
 
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaysharmav7&" alt="akshaysharmav7" /></p>
 
 <!--
   </tr>
