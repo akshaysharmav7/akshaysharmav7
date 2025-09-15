@@ -44,8 +44,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshaysharmav7&show_icons=true" />
   &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaysharmav7&layout=compact" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaysharmav7&" alt="akshaysharmav7" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaysharmav7&" alt="akshaysharmav7" /></p>
 
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg">
 
