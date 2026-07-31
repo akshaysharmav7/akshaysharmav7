@@ -11,8 +11,6 @@
 
 👋 Hi, I'm Akshay — A Software Engineer from India, based in Bengaluru Currently.
 
-📊 Leading development of Ticket Resolution Systems and RAG pipeline solutions @Impulse International Pvt. Ltd.
-
 🧠 Passionate about coding scalable and business driven soutions.
 
 <h3 align="left">Connect with me:</h3>
