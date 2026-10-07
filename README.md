@@ -1,102 +1,161 @@
-<h1 align="center">Akshay Kumar Sharma</h1>
+<div align="center">
 
-<p align="center">
-  <b>Java Backend Engineer</b> · Spring Boot · Microservices · AWS<br/>
-  Bengaluru, India
-</p>
+# Akshay Kumar
 
-<p align="center">
-  <a href="https://linkedin.com/in/akshaysharmav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:akshaysharmav7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+### Java Backend Engineer
+
+Building secure, scalable backend systems with **Spring Boot**, **PostgreSQL** and **AWS**, and adding **AI** on top.
+
+📍 Bengaluru, India  ·  💼 2+ years experience  ·  🟢 Open to opportunities
+
+<a href="https://linkedin.com/in/akshaysharmav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:akshaysharmav7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
 
 ---
 
-## About
+## 👨‍💻 About
 
-I'm a software engineer with 2+ years of experience building and shipping production backend systems with **Java and Spring Boot**. I work on HRMS, ERP and workflow platforms used by hundreds of employees and 100+ client organizations, and I enjoy designing clean REST APIs, secure services, and systems that stay fast as they grow.
+I'm a software engineer who builds production backend systems for HRMS, ERP and workflow platforms used by **hundreds of employees** and **100+ client organizations**. I care about clean REST APIs, secure services, and performance that holds up as usage grows.
 
-Recently, I've been building **AI-powered features** on top of backend platforms, including a RAG-based HR assistant.
+Lately I've been combining backend engineering with **GenAI**, including a RAG-based HR assistant that cut employee queries by half.
 
-## Highlights
+## 📊 Impact at a glance
 
-- **Migrated** legacy Node.js services to Spring Boot across HRMS modules, using Spring Data JPA, Hibernate and PostgreSQL
-- **Cut P95 API latency by 40%** on read-heavy APIs by introducing Redis caching
-- **Built** ticketing, task assignment, RBAC and escalation workflows for a platform used by **350+ employees**
-- **Delivered 20+ production features** across payroll, attendance, leave and shift management
-- **Shipped a RAG-based HR chatbot** over a 287-page knowledge base, reducing employee queries by **50%**
+| ⚡ **40%** | 👥 **350+** | 🏢 **112+** | 🚀 **20+** | 🤖 **50%** |
+|:---:|:---:|:---:|:---:|:---:|
+| lower P95 API latency with Redis caching | employees on workflow and attendance platforms | client orgs on a JWT-secured ticketing system | production features shipped (payroll, leave, shifts) | fewer HR queries via RAG chatbot |
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Backend**
+<table>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square" />
+<img src="https://img.shields.io/badge/Microservices-0A66C2?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Testing & AI</b></td>
+<td>
+<img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" />
+<img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+</td>
+</tr>
+</table>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=flat-square)
+## 💼 Experience
 
-**Databases & Caching**
+**Software Engineer · Novel Office India** · Oct 2025 – Present
+- Migrated legacy Node.js services to Spring Boot across HRMS modules (Spring Data JPA, Hibernate, PostgreSQL)
+- Built ticketing, task assignment, RBAC and escalation workflows for a platform used by 350+ employees
+- Added Redis caching to read-heavy APIs, cutting P95 latency by 40%
+- Built an attendance and leave management system with Spring Boot, React and Redis
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**Junior Software Developer · Impulse International** · Oct 2024 – Oct 2025
+- Delivered 20+ production features across payroll, attendance, leave and shift management
+- Built a JWT-secured ticket resolution system with 3-tier escalation for 112+ client organizations
+- Built a RAG-based HR chatbot (OpenAI, Qdrant, Docker, AWS) over a 287-page knowledge base
 
-**Cloud & DevOps**
+## 🚀 Featured Projects
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 🏥 Clinic Management System: Microservices
 
-**Frontend**
+Distributed system with independent Patient, Doctor and Appointment services, each with its own database.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+```mermaid
+flowchart LR
+    C[Client] --> G[API Gateway]
+    G --> P[Patient Service]
+    G --> D[Doctor Service]
+    G --> A[Appointment Service]
+    A -. OpenFeign .-> P
+    A -. OpenFeign .-> D
+    E[Eureka Discovery] -.- G
+    CFG[Config Server] -.- G
+```
 
-**Testing & AI**
-
-![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
-
-## Featured Projects
-
-### Clinic Management System (Microservices)
-Distributed system with separate **Patient**, **Doctor** and **Appointment** services, each with its own database and REST APIs.
 - Service discovery and inter-service calls with **Eureka** and **OpenFeign**
-- **Spring Cloud Gateway** and **Spring Cloud Config** for routing and centralized configuration
-- **Resilience4j** circuit breakers and retries, **JWT** security, fully containerized with **Docker**
+- **Spring Cloud Gateway** and **Config Server** for routing and centralized configuration
+- **Resilience4j** circuit breakers and retries, **JWT** security, containerized with **Docker**
 
-`Java 21` `Spring Boot` `Spring Cloud` `PostgreSQL` `Docker` `Resilience4j`
+`Java 21` `Spring Boot` `Spring Cloud` `PostgreSQL` `Docker`
 
 <!-- Add repository link: https://github.com/akshaysharmav7/<repo-name> -->
 
-### Blog Sphere (Full Stack)
+### ✍️ Blog Sphere: Full Stack Content Platform
+
 Full-stack blogging platform with blog, category, tag and draft management.
 - **JWT** authentication and role-based authorization with Spring Security
-- DTO-based API contracts and protected REST endpoints
+- Protected REST endpoints with DTO-based API contracts
 
 `Java 21` `Spring Boot 3` `React 18` `PostgreSQL` `Docker`
 
 <!-- Add repository link: https://github.com/akshaysharmav7/<repo-name> -->
 
-## Currently
+### 🤖 RAG-based HR Assistant
 
-Open to **Java backend and full-stack roles** where I can own features end to end, work on scalable services, and build AI-enabled products.
+AI chatbot that answers employee questions from a 287-page HR knowledge base, reducing HR queries by 50%.
 
-## Education & Achievements
+```mermaid
+flowchart LR
+    Q[Employee question] --> API[Backend API]
+    API --> V[(Qdrant vector search)]
+    V --> CTX[Relevant HR content]
+    CTX --> L[OpenAI]
+    L --> R[Grounded answer]
+```
 
-- B.Tech in Computer Science, Sharda University (2025)
-- University-level winner, Solving for India Hackathon 2023 (Google, AMD, GeeksforGeeks)
+`Node.js` `React` `OpenAI` `Qdrant` `Docker` `AWS`
+
+## 🎯 Currently
+
+Looking for **Java backend and full-stack roles** where I can own features end to end, build scalable services, and work on AI-enabled products.
+
+## 🎓 Education & Achievements
+
+- **B.Tech, Computer Science**, Sharda University (2025)
+- **University-level winner**, Solving for India Hackathon 2023 (Google, AMD, GeeksforGeeks)
 
 ---
 
-<p align="center">
-  <i>Open to opportunities. Feel free to reach out on <a href="https://linkedin.com/in/akshaysharmav">LinkedIn</a> or <a href="mailto:akshaysharmav7@gmail.com">email</a>.</i>
-</p>
+<div align="center">
+
+*Open to opportunities. Let's talk on [LinkedIn](https://linkedin.com/in/akshaysharmav) or [email](mailto:akshaysharmav7@gmail.com).*
+
+</div>
