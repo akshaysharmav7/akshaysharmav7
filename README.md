@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6DB33F&height=200&section=header&text=Akshay%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20Spring%20Boot%20%7C%20Microservices%20%7C%20Kafka%20%7C%20AWS%20%26%20Azure&descSize=18&descAlignY=60" width="100%" alt="Akshay Kumar - Java Backend Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6DB33F&height=200&section=header&text=Akshay%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20Microservices%20%7C%20Kafka%20%7C%20AWS%20%7C%20Azure&descSize=18&descAlignY=60" width="100%" alt="Akshay Kumar - Java Backend Engineer" />
 
 <p align="center">
   <a href="https://linkedin.com/in/akshaysharmav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -21,7 +21,7 @@ I work across the stack, deploy on **AWS and Azure**, and I'm especially interes
   <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-6DB33F?style=for-the-badge" alt="Backend engineering" />
   <img src="https://img.shields.io/badge/Architecture-Microservices-ED8B00?style=for-the-badge" alt="Microservices" />
   <img src="https://img.shields.io/badge/Messaging-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%26%20Azure-0078D4?style=for-the-badge" alt="AWS and Azure" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20and%20Azure-0078D4?style=for-the-badge" alt="AWS and Azure" />
 </p>
 
 | | |
