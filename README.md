@@ -1,59 +1,29 @@
+👋 Hi, I'm Akshay Kumar Sharma
+Software Engineer · Full-Stack Developer · Bengaluru, India 🇮🇳
 
-<p align="center">
-    <a href="https://github.com/akshaysharmav7"><img src="https://readme-typing-svg.herokuapp.com/?lines=Akshay%20Kumar%20Sharma;A%20passionate%20software%20engineer%20from%20India;&font=Pacifico&center=true&width=750&height=55&color=58a6ff&vCenter=true&size=35"></a>
-</p>
+I’m a software engineer passionate about building scalable, reliable, and business-driven software.
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+I enjoy turning ideas into production-ready products, designing clean APIs, building intuitive interfaces, and solving problems that have a real-world impact.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysharmav7&label=Profile%20views&color=58a6ff&style=flat" alt="akshaysharmav7" /> </p>
+💻 Building scalable web applications and backend systems
 
-<p align="left"> <a href="https://linkedin.com/in/akshaysharmav" target="blank"><img src="https://img.shields.io/twitter/follow/A_K_S?logo=twitter&style=for-the-badge&color=58a6ff" alt="s_g_d_96" /></a> </p>
+🧠 Interested in system design, clean architecture, and developer experience
 
-👋 Hi, I'm Akshay — A Software Engineer from India, based in Bengaluru Currently.
+☁️ Exploring cloud infrastructure and modern engineering practices
 
-🧠 Passionate about coding scalable and business driven soutions.
+🚀 Always learning, building, and improving
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://instagram.com/akshaysharmav" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshaysharmav" height="30" width="40" style="margin-right:16px;vertical-align:middle;" />
-    </a>
-    <a href="https://linkedin.com/in/akshaysharmav" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaysharmav" height="30" width="40" style="margin-right:16px;vertical-align:middle;" />
-    </a>
-    <a href="mailto:akshaysharmav7@gmail.com" target="blank">
-        <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="akshaysharmav7@gmail.com" height="30" width="40" style="margin-right:16px;vertical-align:middle;" />
-    </a>
-    <a href="https://leetcode.com/u/akshaysharmav7/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshaysharmav" height="30" width="40" style="vertical-align:middle;" />
-    </a>
-</p>
-
-## 🛠 Technical Skills
-
-| Frontend | Backend & DBMS | Languages | Cloud | Others |
-| --- | --- | --- | --- | --- |
-| <div style="background-color:#f5f5f5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/> </div> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40"/> |
----
-
-## 📊 GitHub Public Repository Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshaysharmav7&show_icons=true" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaysharmav7&layout=compact" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaysharmav7&" alt="akshaysharmav7" />
-</p>
-
-<img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg">
-
-<!--
-  </tr>
-  <tr style="background-color:#f5f5f5">
-  </tr>
-  <tr style="background-color:#f5f5f5">
--->
-<!--src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40"/> -->
- <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40"/> -->
- <!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/> -->
- <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/> -->
+🛠️ Tech Stack
+Frontend
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" alt="HTML5" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" alt="CSS3" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" alt="TypeScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" alt="React" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" alt="Next.js" /> </p>
+Backend & Databases
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" alt="Express.js" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" alt="MySQL" /> </p>
+Languages
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" alt="TypeScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" alt="Java" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" alt="Python" /> </p>
+Cloud & Tools
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" alt="AWS" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="42" alt="Heroku" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" alt="Git" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="42" alt="Figma" /> </p>
+📈 GitHub
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akshaysharmav7&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaysharmav7&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e" height="170" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaysharmav7&hide_border=true&theme=transparent&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" /> </p>
+🌐 Let's Connect
+<p> <a href="https://linkedin.com/in/akshaysharmav"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://instagram.com/akshaysharmav"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="mailto:akshaysharmav7@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://leetcode.com/u/akshaysharmav7/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> </a> </p>
+<p align="center"> <i>"Build things that matter. Keep learning. Keep improving."</i> </p>
