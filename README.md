@@ -1,29 +1,102 @@
-👋 Hi, I'm Akshay Kumar Sharma
-Software Engineer · Full-Stack Developer · Bengaluru, India 🇮🇳
+<h1 align="center">Akshay Kumar Sharma</h1>
 
-I’m a software engineer passionate about building scalable, reliable, and business-driven software.
+<p align="center">
+  <b>Java Backend Engineer</b> · Spring Boot · Microservices · AWS<br/>
+  Bengaluru, India
+</p>
 
-I enjoy turning ideas into production-ready products, designing clean APIs, building intuitive interfaces, and solving problems that have a real-world impact.
+<p align="center">
+  <a href="https://linkedin.com/in/akshaysharmav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:akshaysharmav7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-💻 Building scalable web applications and backend systems
+---
 
-🧠 Interested in system design, clean architecture, and developer experience
+## About
 
-☁️ Exploring cloud infrastructure and modern engineering practices
+I'm a software engineer with 2+ years of experience building and shipping production backend systems with **Java and Spring Boot**. I work on HRMS, ERP and workflow platforms used by hundreds of employees and 100+ client organizations, and I enjoy designing clean REST APIs, secure services, and systems that stay fast as they grow.
 
-🚀 Always learning, building, and improving
+Recently, I've been building **AI-powered features** on top of backend platforms, including a RAG-based HR assistant.
 
-🛠️ Tech Stack
-Frontend
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" alt="HTML5" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" alt="CSS3" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" alt="TypeScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" alt="React" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" alt="Next.js" /> </p>
-Backend & Databases
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" alt="Express.js" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" alt="MySQL" /> </p>
-Languages
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" alt="TypeScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" alt="Java" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" alt="Python" /> </p>
-Cloud & Tools
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" alt="AWS" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="42" alt="Heroku" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" alt="Git" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="42" alt="Figma" /> </p>
-📈 GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akshaysharmav7&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaysharmav7&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e" height="170" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaysharmav7&hide_border=true&theme=transparent&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" /> </p>
-🌐 Let's Connect
-<p> <a href="https://linkedin.com/in/akshaysharmav"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://instagram.com/akshaysharmav"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="mailto:akshaysharmav7@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://leetcode.com/u/akshaysharmav7/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> </a> </p>
-<p align="center"> <i>"Build things that matter. Keep learning. Keep improving."</i> </p>
+## Highlights
+
+- **Migrated** legacy Node.js services to Spring Boot across HRMS modules, using Spring Data JPA, Hibernate and PostgreSQL
+- **Cut P95 API latency by 40%** on read-heavy APIs by introducing Redis caching
+- **Built** ticketing, task assignment, RBAC and escalation workflows for a platform used by **350+ employees**
+- **Delivered 20+ production features** across payroll, attendance, leave and shift management
+- **Shipped a RAG-based HR chatbot** over a 287-page knowledge base, reducing employee queries by **50%**
+
+## Tech Stack
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=flat-square)
+
+**Databases & Caching**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Testing & AI**
+
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+
+## Featured Projects
+
+### Clinic Management System (Microservices)
+Distributed system with separate **Patient**, **Doctor** and **Appointment** services, each with its own database and REST APIs.
+- Service discovery and inter-service calls with **Eureka** and **OpenFeign**
+- **Spring Cloud Gateway** and **Spring Cloud Config** for routing and centralized configuration
+- **Resilience4j** circuit breakers and retries, **JWT** security, fully containerized with **Docker**
+
+`Java 21` `Spring Boot` `Spring Cloud` `PostgreSQL` `Docker` `Resilience4j`
+
+<!-- Add repository link: https://github.com/akshaysharmav7/<repo-name> -->
+
+### Blog Sphere (Full Stack)
+Full-stack blogging platform with blog, category, tag and draft management.
+- **JWT** authentication and role-based authorization with Spring Security
+- DTO-based API contracts and protected REST endpoints
+
+`Java 21` `Spring Boot 3` `React 18` `PostgreSQL` `Docker`
+
+<!-- Add repository link: https://github.com/akshaysharmav7/<repo-name> -->
+
+## Currently
+
+Open to **Java backend and full-stack roles** where I can own features end to end, work on scalable services, and build AI-enabled products.
+
+## Education & Achievements
+
+- B.Tech in Computer Science, Sharda University (2025)
+- University-level winner, Solving for India Hackathon 2023 (Google, AMD, GeeksforGeeks)
+
+---
+
+<p align="center">
+  <i>Open to opportunities. Feel free to reach out on <a href="https://linkedin.com/in/akshaysharmav">LinkedIn</a> or <a href="mailto:akshaysharmav7@gmail.com">email</a>.</i>
+</p>
